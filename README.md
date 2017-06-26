@@ -1,1 +1,30 @@
-# nginx_installer
+# Overview
+
+This script install and configures a local Web server with nginx and php. The Version 1 is corrently for openSUSE and use zypper.
+
+----------
+
+# Setup
+#### Download
+
+```sh
+$ git clone https://github.com/triple-t-h/nginx_installer.git
+```
+
+or
+
+```sh
+$ wget https://github.com/triple-t-h/nginx_installer/archive/master.zip && unzip master.zip
+```
+
+#### Install
+
+```sh
+$ cd nginx_installer/linux/bin
+$ su
+# ./install.sh
+```
+
+# License
+
+MIT

@@ -25,6 +25,15 @@ $ su
 # ./install.sh
 ```
 
+#### Start
+
+```sh
+# nginx
+# php-fpm
+```
+
+Open your browser: http://localhost
+
 # License
 
 MIT

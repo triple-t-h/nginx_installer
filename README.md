@@ -1,6 +1,6 @@
 # Overview
 
-This script install and configure a local Web server with nginx and php. The Version 1 is currently for openSUSE and use zypper.
+This script install and configure a local Web server with nginx and php easier. The Version 1 is currently for openSUSE and use zypper.
 
 ----------
 
